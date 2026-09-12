@@ -46,7 +46,7 @@ A lo largo de mi carrera, he colaborado en la construcción de múltiples sistem
 
 ---
 
-### 🏙️ Mi Actividad (GitHub 3D Matrix)
+### 🏙️ Mi Actividad
 
 <div align="center">
   <!-- Gráfico 3D en versión Night (Oscuro) y Verde Matrix -->
